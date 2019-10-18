@@ -1,0 +1,72 @@
+body {
+    background: url(./background-verde.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
+label {
+    font-size: 1.2em;
+    color: white;
+    font-weight: 800;
+
+
+}
+h1 {
+    font-size: 2em;
+    background-color: greenyellow;
+    color: #35883c;
+    margin-bottom: 0px;
+
+}
+
+form {
+    background-color: #2E8B57;
+    box-shadow: 1px 1px 30px white;
+    border-radius: 49px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 2%;
+    width: 30%;
+    height: 50%;
+
+
+
+
+}
+h2{
+    font: 700 2rem;
+    color: white;
+}
+button {
+    padding: 7px;
+    background-color: greenyellow;
+    color: white;
+    font-weight: 800;
+    border: none;
+    border-radius: 30px;
+    margin: 20px;
+    width: 8vw;
+
+}
+span {
+
+
+}
+
+input {
+    width: 23vw;
+    box-shadow: 1px 2px 1px #556B2F;
+    border: none;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+
+
+
+}
+
